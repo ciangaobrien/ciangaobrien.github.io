@@ -18,6 +18,6 @@
 # Continuous Integration & Continuous Delivery
 - For those who may not know, CI/CD is a set of principles and guidelines developers use to maximize their productivity and speed. Generally, it includes consistent updates to the code to be regularly checked or tested, time versioning to ensure no work can be lost, and automation to streamline the process. Funnily enough, I actually learned the hard way. When I began writing out my HTML & CSS, I did not have a GitHub repository to commit my changes, going directly against the advice of my professor. At some point, I lost my original file, leading to much more work for me and an overall valuable lesson. From now on, I will always remember the fateful day I had to redo hours of work, and I will make sure always to log the code I write.
   
-Conclusion
+# Conclusion
 - Overall, this experience has not only been extraordinarily informative but also extremely helpful in building up my confidence in the areas of networking, cloud infrastructure, and overall information technology administration. It put me out of my comfort zone and allowed me to put my knowledge to the test. I recommend this challenge to anyone who is interested in working with the cloud or a networking-related job, as it will build up the skills needed for a multitude of different roles and fields. Thanks for reading, and good luck :)
   
